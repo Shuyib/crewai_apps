@@ -1,4 +1,4 @@
-# Credit: Ment, Alex (former Intern) and #https://github.com/mattharrison/sample_nb_code_project/blob/main/Makefile
+# https://github.com/mattharrison/sample_nb_code_project/blob/main/Makefile
 # .ONESHELL tells make to run each recipe line in a single shell
 .ONESHELL:
 
@@ -69,7 +69,7 @@ run: activate install format
 	# run test_app
 	# run each file separately, bc if one fails, all fail
 	@echo @running your code
-	python app.py
+	streamlit run app.py
 
 
 docker_build: Dockerfile
