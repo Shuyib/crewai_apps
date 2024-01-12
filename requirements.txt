@@ -1,0 +1,7 @@
+crewai
+langchain_openai
+duckduckgo-search
+ipython
+black
+streamlit
+openai
