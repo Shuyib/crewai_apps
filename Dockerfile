@@ -30,4 +30,4 @@ HEALTHCHECK --interval=5m --timeout=3s \
 
 # Run app.py when the container launches
 ENTRYPOINT [ "streamlit", "run" ]
-CMD [ "PAL.py" ]
+CMD [ "app.py" ]
