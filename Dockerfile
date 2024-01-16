@@ -20,7 +20,7 @@ RUN apt-get update && apt-get install -y \
     && pip install --no-cache-dir --upgrade pip \
     && pip install --no-cache-dir -r requirements.txt
 
-# Make port 8502 available to the world outside this container
+# Make port 8504 available to the world outside this container
 EXPOSE 8504
 
 # Add healthcheck
