@@ -10,7 +10,7 @@
 # Specify the name of the docker container for easy edits.
 PYTHON := .venv/bin/python3
 PIP := .venv/bin/pip3
-DOCKER_CONTAINER_NAME := googleai_app:v0.0.0
+DOCKER_CONTAINER_NAME := crewai_app:v0.0.0
 
 
 venv/bin/activate: requirements.txt #requirements.txt is a requirement, otherwise this command won't run
