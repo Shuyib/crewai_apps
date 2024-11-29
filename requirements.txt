@@ -5,4 +5,4 @@ ipython
 black
 streamlit
 openai
-sqlite3>=3.35.0
+pysqlite3-binary
