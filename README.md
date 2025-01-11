@@ -1,5 +1,6 @@
 # BlogEditor
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Shuyib/crewai_apps)     
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Shuyib/crewai_apps)  
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Space-yellow)](https://huggingface.co/spaces/Skier8402/crewai_article_editor)
 
 Blog Editor agent implemented with LLMs and crewai framework for handling autogen agents.
 
