@@ -1,5 +1,7 @@
 crewai
 langchain_openai
+langchain-community 
+langchain-core
 duckduckgo-search
 ipython
 black
